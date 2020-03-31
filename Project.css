@@ -1,0 +1,49 @@
+.header 
+{
+    background-color: #f48fb1;
+    color: #000000;
+    border:thin #c0c0c0 solid;
+    border-style: outset;
+}
+h2
+{
+    background-color: #f8bbd0;
+    color: #4b0082;
+    border:thin #c0c0c0 solid;
+    border-style: outset;
+}
+p
+{
+    background-color: #fce4ec;
+    color: #4b0082;
+    border:thin #c0c0c0 solid;
+    border-style: outset;
+}
+ul
+{
+    background-color: #fce4ec;
+    color: #4b0082;
+    border:thin #c0c0c0 solid;
+    border-style: outset;
+}
+th
+{
+    background-color: #f8bbd0;
+    color: #4b0082;
+    border:thin #c0c0c0 solid;
+    border-style: outset;
+}
+td
+{
+    background-color: #fce4ec;
+    color: #4b0082;
+    border:thin #c0c0c0 solid;
+    border-style: outset;
+}
+adress
+{
+    background-color: #fce4ec;
+    color: #4b0082;
+    border:thin #c0c0c0 solid;
+    border-style: outset;
+}
