@@ -7,9 +7,8 @@ function requestHandler(request, response)
     {
         response.end('Hello, stupid bitch!')
     }
-const requestHandler = (request, response) => 
-const server = http.createServer(requestHandler)
 }
+    const server = http.createServer(requestHandler)
 server.listen(port, (err) => 
     {
     if (err) {
