@@ -1,0 +1,28 @@
+{
+  "name": "projectnpm",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Project.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realnayasimfonia/My_portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "Node.js",
+    "NPN",
+    "HTTP",
+    "Server",
+    "Back-End"
+  ],
+  "author": "Alexandra Grushetska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realnayasimfonia/My_portfolio/issues"
+  },
+  "homepage": "https://github.com/realnayasimfonia/My_portfolio#readme"
+}
